@@ -1,0 +1,28 @@
+/* RESET  */
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.red {
+    color: red;
+}
+
+.center {
+    text-align: center;
+}
+
+.box-pic {
+    width: 500px;
+    height: 500px;
+    position: absolute;
+    left: 50%;
+    top: 45%;
+    transform: translate(-50%,-50%);
+}
+
+.photo {
+    width: 100%;
+}
